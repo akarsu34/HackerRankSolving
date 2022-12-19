@@ -1,9 +1,9 @@
 package problemsolving;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
 
-
-public class MigratoryBirds {
+public class MigratoryBirds  {
 
     public static void main(String[] args) {
         List<Integer> list = Arrays.asList(1 ,2 ,3 ,4 ,5 ,4 ,3 ,2 ,1 ,3 ,4);
@@ -33,3 +33,6 @@ public class MigratoryBirds {
 
     }
 }
+
+
+
